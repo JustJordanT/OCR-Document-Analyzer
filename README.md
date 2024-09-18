@@ -1,7 +1,7 @@
-# Document Analyzer and Organizer
+# .NET Document Analyzer and Organizer
 
 ## Project Overview
-A C# application that uses Azure OCR to scan, analyze, and organize documents based on their content.
+A .NET application that uses Azure OCR to scan, analyze, and organize documents based on their content.
 
 ## Key Features
 1. Document upload
