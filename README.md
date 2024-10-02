@@ -1,4 +1,4 @@
-# .NET Document Analyzer and Organizer
+# .NET AI Document Analyzer and Organizer
 
 ## Project Overview
 A .NET application that uses Azure OCR to scan, analyze, and organize documents based on their content.
