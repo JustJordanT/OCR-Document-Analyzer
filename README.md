@@ -1,7 +1,7 @@
-# .NET AI Document Analyzer and Organizer
+# .TypeScript AI Document Analyzer and Organizer
 
 ## Project Overview
-A .NET application that uses Azure OCR to scan, analyze, and organize documents based on their content.
+A TypeScript application that uses Azure OCR to scan, analyze, and organize documents based on their content.
 
 ## Key Features
 1. Document upload
